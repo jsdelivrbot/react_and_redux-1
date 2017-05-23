@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+
+const API_KEY = 'AIzaSyDbSmJZAm2wlqkbjo2wUkqblAfelP1GFww';
 // Create a mew component. This component should produce
 // some HTML
 const App = () => {
